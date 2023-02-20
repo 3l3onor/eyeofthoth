@@ -1,1 +1,2 @@
 # eyeofthoth
+Thoth
